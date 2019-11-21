@@ -13,7 +13,7 @@ Run `./RTv1 [file]`
 
 # Example
 
-./RTv1 scenes/case.scene
+```./RTv1 scenes/case.scene```
 
 ![alt text](https://i.imgur.com/Uj4xF2F.png)
 
