@@ -4,7 +4,7 @@ RTv1 is a basic ray tracing program. It parses a scene from an input file and re
 
 # Compiling
 
-<b>works with Linux and macOS</b>
+<b>Works with Linux and macOS</b>
 Run `make`
 
 # Usage
